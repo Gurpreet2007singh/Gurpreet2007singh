@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-
-**Gurpreet2007singh/Gurpreet2007singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hi, I'm Gurpreet Singh 👋
+<p align="center">
+  <img src="C:\Users\gs337\Downloads\Gurpreet_GitHub_Banner_1MB.jpg" alt="Gurpreet Singh - BCA Student, Developer, Data Enthusiast" width="100%">
+</p>
 
 2nd year BCA student at Jaipur National University, Jaipur.
 I work with SQL, Python and AI/ML, and I build practical tools and web apps for the Indian market.
