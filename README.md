@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
- <img src="Gurpreet_GitHub_Banner_1MB.jpg" alt="Gurpreet Singh - BCA Student, Developer, Data Enthusiast" width="100%">
+ <img src="https://github.com/Gurpreet2007singh/Gurpreet2007singh/blob/main/Gurpreet%20Singh_%20From%20Code%20to%20Impact.png" alt="Gurpreet Singh - BCA Student, Developer, Data Enthusiast" width="100%">
 </p>
 
 2nd year BCA student at Jaipur National University, Jaipur.
