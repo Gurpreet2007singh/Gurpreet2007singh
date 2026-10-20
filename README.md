@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <p align="center">
  <img src="https://github.com/Gurpreet2007singh/Gurpreet2007singh/blob/main/Gurpreet%20Singh_%20From%20Code%20to%20Impact.png" alt="Gurpreet Singh - BCA Student, Developer, Data Enthusiast" width="100%">
